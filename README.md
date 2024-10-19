@@ -128,7 +128,7 @@ The tests cover:
 - Proper logging in the log file.
 - Memory manipulation and stack operations in the interpreter.
 - Utility methods for writing binary and CSV files.
-- 
+
 ### Test Results
 
 Below is an image showcasing the test results:
