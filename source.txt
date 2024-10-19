@@ -1,0 +1,8 @@
+load_const 5
+load_const 10
+negate
+write_mem
+load_const 1
+read_mem
+negate
+write_mem
